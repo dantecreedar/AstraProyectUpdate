@@ -1,0 +1,154 @@
+[
+    {
+        "id":1,
+        "name": "McDonald's",
+        "username": "...null data...",
+        "title":"Productos McDonald's",
+        "email": "...null data...",
+        "body":"McDonald's es una franquicia de restaurantes de comida rápida estadounidense con sede en Chicago, Illinois.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+        "icon":"https://logos-download.com/wp-content/uploads/2016/03/McDonalds_France_Logo_2003-700x700.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/McDonald's_logo_Targ%C3%B3wek.JPG",
+        "route": "/mcdonals",
+        "url":"https://www.mcdonalds.com.ar/",
+        "offer":"https://assets.hotsale.com.ar/uploads/offers/335061/645e481358a5e.jpg?w=500&h=375"
+    },
+    {
+        "id":2,
+        "name":"Shopping Libertad",
+        "username": "...null data...",
+        "title":"Productos Libertad",
+        "email": "...null data...",
+        "body":"McDonald's es una franquicia de restaurantes de comida rápida estadounidense con sede en Chicago, Illinois.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+        "icon":"https://na.leafletscdns.com/com.ar/data/51/logo.webp?f82776bacba7bf682abf9c0ec7206190",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/McDonald's_logo_Targ%C3%B3wek.JPG",
+        "route": "/libertad",
+        "url":"https://www.mcdonalds.com.ar/",
+        "offer":"https://images.fravega.com/f300/43aa63fc987cd16ea482a0ba14168f39.png"
+        
+    },
+    {
+        "id":3,
+        "name": "Makro",
+        "username": "...null data...",
+        "title":"Productos Makro",
+        "email": "...null data...",
+        "body":"McDonald's es una franquicia de restaurantes de comida rápida estadounidense con sede en Chicago, Illinois.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+        "icon":"https://na.leafletscdns.com/com.ar/data/10/logo.webp?e9b5c71ec2322a15834dfd9fe9cb5cb3",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/McDonald's_logo_Targ%C3%B3wek.JPG",
+        "route": "/makro",
+        "url":"https://www.mcdonalds.com.ar/",
+        "offer":"https://images.fravega.com/f300/73f3273bdec8d10d5bdaa16c0d551e7e.jpg"
+
+    },
+    {
+        "id":4,
+        "name": "vital",
+        "username": "...null data...",
+        "title":"Productos Vital",
+        "email": "...null data...",
+        "body":"McDonald's es una franquicia de restaurantes de comida rápida estadounidense con sede en Chicago, Illinois.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+        "icon":"https://na.leafletscdns.com/com.ar/data/13/logo.webp?303f2de0b3374527dbb9f824e02d3fdf",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/McDonald's_logo_Targ%C3%B3wek.JPG",
+        "route": "/vital",
+        "url":"https://www.mcdonalds.com.ar/",
+        "offer":"https://images.fravega.com/f300/a16d7775a8128d2663cc9fb6ae92c003.jpg"
+    },
+    {
+        "id":5,
+        "name": "ChangoMas",
+        "username": "...null data...",
+        "title":"Productos ChangoMas",
+        "email": "...null data...",
+        "body":"McDonald's es una franquicia de restaurantes de comida rápida estadounidense con sede en Chicago, Illinois.",
+        "address": {
+            "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874",
+            "geo": {
+                "lat": "-37.3159",
+                "lng": "81.1496"
+            }
+            },
+            "phone": "1-770-736-8031 x56442",
+            "website": "hildegard.org",
+            "company": {
+                "name": "Romaguera-Crona",
+                "catchPhrase": "Multi-layered client-server neural-net",
+                "bs": "harness real-time e-markets"
+            },
+        "icon":"https://masclub.com.ar/assets/AR/images/home/SVG/body/unit4.svg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/McDonald's_logo_Targ%C3%B3wek.JPG",
+        "route": "/changomas",
+        "url":"https://www.mcdonalds.com.ar/",
+        "offer":"https://publish-p32363-e119350.adobeaemcloud.com//content/dam/teco-cms-ecosystem/colecciones/tienda/categorias/Celulares.png/jcr:content/renditions/optimized-format.webp"
+    }
+]

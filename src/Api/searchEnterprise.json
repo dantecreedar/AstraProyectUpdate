@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "name": "Nike",
+        "title":"Servicios Nike",
+        "city": "Universidad Unam",
+        "image": "/src/assets/marcas/coca.png",
+        "bgImg":"#edu_1",
+        "url":"/nike"
+    },
+    {
+        "id":2,
+        "name": "Adidas",
+        "title":"Servios Utn",
+        "city": "Universidad de la Plata",
+        "image": "/src/assets/marcas/ford.png",
+        "bgImg":"#edu_2",
+        "url":"/nike"
+    },
+    {
+        "id":3,
+        "name": "Utn",
+        "title":"Servicios UNL",
+        "city": "Univercidad de Santa fe",
+        "image": "/src/assets/marcas/nike.jpg",
+        "bgImg":"#edu_3",
+        "url":"/nike"
+    },
+    {
+        "id":4,
+        "name": "UNL",
+        "title":"Servicios UTN Caba",
+        "city": "Univercidad de Caba",
+        "image": "/src/assets/marcas/santander.png",
+        "bgImg":"#edu_4",
+        "url":"/nike"
+    }
+]

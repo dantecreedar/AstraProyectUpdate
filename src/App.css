@@ -1,0 +1,252 @@
+body{
+    background: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* glass */
+#glass{
+    background: #fafafa10;
+    backdrop-filter: blur(0.4rem);
+}
+
+/* color background */
+
+section #color:nth-child(2){
+    top: -350;
+    width: 600px;
+    height: 600px;
+    background: yellow;
+}
+section #color:nth-child(3){
+    top: -350;
+    width: 600px;
+    height: 600px;
+    background: blue;
+}
+
+
+.verPanel{
+    display: none;
+}
+
+.p-left{
+    display: block;
+}
+
+/* marcas */
+#nikebg{
+    background-image: url("/src//assets/marcas/nike.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    margin: 20px;
+    background-position: center 50%;
+    
+}
+#nikebg_2{
+    background-image: url("/src//assets/productosNike/nikezapas.jpg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: right 10%;
+    background-position: center 50%;
+}
+
+#nikeLogo{
+    background-image: url("/src//assets/marcas//nike.png");
+    background-repeat: no-repeat;
+    background-size: 110%;
+    background-position: center 50%;
+}
+
+#empresa_1{
+    background-image: url("/src//assets/empresa/cactus\ studio_2.png");
+    background-repeat: no-repeat;
+    background-size: 150%;
+}
+
+/* history */
+
+#h_1{
+    background-image: url("/src//assets/history/nike/histori_1.jpg");
+    background-repeat: no-repeat;
+    background-size: 300%;
+}
+
+#h_1:hover{
+    transition: all 0.3s ease-in-out;
+    background-size: 350%;
+}
+
+#h_2{
+    background-image: url("/src//assets/history/nike/histori_2.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+#h_2:hover{
+    transition: all 0.3s ease-in-out;
+    background-size: 250%;
+}
+#h_3{
+    background-image: url("/src//assets/history/nike/histori_3.jpg");
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+#h_3:hover{
+    transition: all 0.3s ease-in-out;
+    background-size: 250%;
+}
+/* bg movemente */
+
+/* mcdonals */
+#mc_logo{
+    background-image: url("/src//assets/image/macdonald/hamburguesa.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+}
+#mc_banner_1{
+    background-image: url("/src//assets/image/macdonald/local.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+    opacity: 0.9;
+}
+#mc_banner_2{
+    background-image: url("/src//assets/image/macdonald/banner.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+    opacity: 0.9;
+}
+#mc_1{
+    background-image: url("/src//assets/image/macdonald/1.png");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center 50%;
+}
+#mc_2{
+    background-image: url("/src//assets/image/macdonald/2.png");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center 50%;
+}
+#mc_3{
+    background-image: url("/src//assets/image/macdonald/3.png");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center 50%;
+}
+
+/* libertad */
+#libertad_logo{
+    background-image: url("https://na.leafletscdns.com/com.ar/data/51/logo.webp?f82776bacba7bf682abf9c0ec7206190");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: center 50%;
+}
+#libertad_banner_1{
+    background-image: url("/src//assets/image/libertad//libertad_local.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+    opacity: 0.9;
+}
+#libertad_banner_2{
+    background-image: url("/src//assets/image/libertad/icono.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom 50%;
+    opacity: 0.9;
+}
+#libertad_1{
+    background-image: url("/src//assets/image/libertad/1.png");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center 50%;
+}
+#libertad_2{
+    background-image: url("/src//assets/image/libertad/2.png");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center 50%;
+}
+#libertad_3{
+    background-image: url("/src//assets/image/libertad/3.png");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-position: center 50%;
+}
+
+
+/* nike */
+
+#nike{
+    background-image: url("/src//assets/marcas/nike.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+    opacity: 0.7;
+}
+/* esccuela */
+#edu_general{
+    background-image: url("/src/assets/Universidades/unam.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+}
+
+#edu_1{
+    background-image: url("/src/assets/Universidades/unam.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+}
+#edu_2{
+    background-image: url("/src/assets/Universidades/UTN_Concordia.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+}
+#edu_3{
+    background-image: url("/src/assets/Universidades/la\ plata.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+}
+#edu_4{
+    background-image: url("/src/assets/Universidades/UTN-Santa-Fe.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center 50%;
+}
+
+/* focus */
+
+@media(max-width:800px){
+    .p-left{
+        display: none;
+    }
+}
+
+@media(max-width:768px){
+    .verPanel{
+        display: block;
+    }
+    #edu_general{
+        background-image: url("/src/assets/Universidades/unam.jpg");
+        background-repeat: no-repeat;
+        background-size: 400%;
+        background-position: center 50%;
+    }
+
+    #mc_1, #mc_2, #mc_3{
+        background-size: 470%;
+        background-position: center 10%;
+    }
+    #nikeLogo{
+        background-image: url("/src//assets/marcas//nike.png");
+        background-repeat: no-repeat;
+        background-size: 200%;
+        background-position: center 50%;
+    }
+    
+}

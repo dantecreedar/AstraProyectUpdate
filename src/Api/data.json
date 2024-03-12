@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "title":"Unam",
+        "city": "Universidad Unam",
+        "image": "/src/assets/Universidades/utn_logo.jpg",
+        "bgImg":"#edu_1",
+        "url":"https://www.unam.edu.ar/"
+    },
+    {
+        "id":1,
+        "title":"Utn",
+        "city": "Universidad de la Plata",
+        "image": "/src/assets/Universidades/utn_logo.jpg",
+        "bgImg":"#edu_2",
+        "url":"https://www.unam.edu.ar/"
+    },
+    {
+        "id":1,
+        "title":"UNL",
+        "city": "Univercidad de Santa fe",
+        "image": "/src/assets/Universidades/utn_logo.jpg",
+        "bgImg":"#edu_3",
+        "url":"https://www.unam.edu.ar/"
+    },
+    {
+        "id":1,
+        "title":"UTN Caba",
+        "city": "Univercidad de Caba",
+        "image": "/src/assets/Universidades/utn_logo.jpg",
+        "bgImg":"#edu_4",
+        "url":"https://www.unam.edu.ar/"
+    }
+]

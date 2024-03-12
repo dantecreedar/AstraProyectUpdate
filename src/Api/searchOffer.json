@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "name": "Producto 1",
+        "title":"primero",
+        "city": "Universidad Unam",
+        "image": "/src/assets/celulares/celu_1.jpg",
+        "bgImg":"#edu_1",
+        "url":"/nike",
+        "stock": "Disponible"
+    },
+    {
+        "id":2,
+        "name": "Producto 2",
+        "title":"segundo",
+        "city": "Universidad de la Plata",
+        "image": "/src/assets/celulares/celu_4.jpg",
+        "bgImg":"#edu_2",
+        "url":"/nike",
+        "stock": "Disponible"
+    },
+    {
+        "id":3,
+        "name": "Producto 3",
+        "title":"tercero",
+        "city": "Univercidad de Santa fe",
+        "image": "/src/assets/celulares/celu_3.jpg",
+        "url":"/nike",
+        "stock": "Disponible"
+        
+    },
+    {
+        "id":4,
+        "name": "Prodcto 4",
+        "title":"cuarto",
+        "city": "Univercidad de Caba",
+        "image": "/src/assets/celulares/celu_4.jpg",
+        "bgImg":"#edu_4",
+        "url":"/nike",
+        "stock": "Disponible"
+    },
+    {
+        "id":5,
+        "name": "Producto 5",
+        "title":"quinto",
+        "city": "Univercidad de Caba",
+        "image": "/src/assets/celulares/celu_5.jpg",
+        "bgImg":"#edu_4",
+        "url":"/nike",
+        "stock": "Disponible"
+    },
+    {
+        "id":6,
+        "name": "Producto 6",
+        "title":"secto",
+        "city": "Univercidad de Caba",
+        "image": "/src/assets/celulares/celu_6.jpg",
+        "bgImg":"#edu_4",
+        "url":"/nike",
+        "stock": "Disponible"
+    }
+]
